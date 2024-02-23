@@ -277,13 +277,14 @@ nav{
     padding-block: 5em;
 }
 .row{
-    display: flex;
-    justify-content: space-between;
+    display:flex;
+    justify-content: center;
     width: 100%;
     gap: 50px;
 }
 .col{
     display: flex;
+    justify-content: space-evenly;
     width: 50%;
 
 }
