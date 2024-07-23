@@ -376,6 +376,7 @@ h3{
     width: 30%;
     height: 250px;
     background: var(--color-white);
+    text-align: center;
     border-radius: 20px;
     box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
     overflow: hidden;
